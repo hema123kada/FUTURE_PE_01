@@ -63,3 +63,37 @@ Keep it simple and website-ready.
 - Asks for benefits-focused writing not just feature listing
 - Includes price range for realistic website-ready output
 - CTA line per service increases conversion focus
+
+---
+
+## Prompt 3 — CTA Section Copy
+**Tool:** Claude AI
+**Goal:** Generate a full CTA section with urgency headline,
+supporting line, 3 CTA buttons, trust line and special offer
+
+**Prompt:**
+You are a conversion copywriter.
+
+Write a Call-To-Action (CTA) section for "Glowup Studio", 
+a beauty salon in Hyderabad, Telangana.
+
+Include:
+1. A headline that creates urgency or excitement (max 10 words)
+2. A supporting line (1–2 sentences explaining why act now)
+3. Three CTA buttons with label + short description:
+   - Book Appointment
+   - Contact Us
+   - View Services
+4. A closing trust line 
+   (e.g., "500+ happy clients in Hyderabad")
+5. A special offer line 
+   (e.g., first-time visitor discount)
+
+Tone: Energetic, warm, and action-driving
+Make it website-ready and conversion-focused.
+
+**Why This Prompt Works:**
+- Urgency headline pushes visitor to take action immediately
+- Three different CTAs cover all visitor intentions
+- Trust line builds credibility for new visitors
+- Special offer creates FOMO and increases conversions
