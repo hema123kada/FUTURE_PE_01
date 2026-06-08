@@ -27,3 +27,39 @@ Make it website-ready and conversion-focused.
 - Specifies exact sections needed (no vague instructions)
 - Sets tone and target audience for better output
 - Word limits prevent overly long or short responses
+
+---
+
+## Prompt 2 — Services Page Copy
+**Tool:** Claude AI
+**Goal:** Generate 5 service descriptions with benefits,
+pricing, and CTAs for the salon services page
+
+**Prompt:**
+You are a professional website copywriter.
+
+Write a Services page for "Glowup Studio", a premium salon 
+and beauty parlour in Hyderabad, Telangana.
+
+Create descriptions for these 5 services:
+1. Haircut & Styling
+2. Bridal Makeup
+3. Facial & Skin Care
+4. Manicure & Pedicure
+5. Hair Spa & Treatment
+
+For each service write:
+- A service heading (bold)
+- A 2–3 sentence description (benefits-focused, not just features)
+- A price range (affordable, fictional)
+- A short CTA line
+
+Target audience: Women aged 18–45
+Tone: Warm, persuasive, and professional
+Keep it simple and website-ready.
+
+**Why This Prompt Works:**
+- Lists exact services so AI doesn't guess or miss any
+- Asks for benefits-focused writing not just feature listing
+- Includes price range for realistic website-ready output
+- CTA line per service increases conversion focus
