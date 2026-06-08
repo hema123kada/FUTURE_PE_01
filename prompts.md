@@ -1,11 +1,15 @@
-# Prompts Used — Glowup Studio Website Copy
+# 🎯 Prompts Used — Glowup Studio Website Copy
 
-## Prompt 1 — Homepage Copy
-**Tool:** Claude AI
-**Goal:** Generate homepage copy with headline, tagline, 
+## 📋 Task 1 | Future Interns | Prompt Engineering Track
+
+---
+
+## 🏠 Prompt 1 — Homepage Copy
+**🤖 Tool:** Claude AI
+**🎯 Goal:** Generate homepage copy with headline, tagline,
 value proposition, why choose us, and welcome message
 
-**Prompt:**
+**📝 Prompt:**
 You are a professional website copywriter specializing in local businesses.
 
 Write homepage copy for a salon and beauty parlour called "Glowup Studio" 
@@ -22,20 +26,20 @@ Target audience: Women aged 18–45
 Tone: Warm, confident, welcoming, and professional
 Make it website-ready and conversion-focused.
 
-**Why This Prompt Works:**
-- Clearly defines the business name and location
-- Specifies exact sections needed (no vague instructions)
-- Sets tone and target audience for better output
-- Word limits prevent overly long or short responses
+**✅ Why This Prompt Works:**
+- 📍 Clearly defines business name and location
+- 📋 Specifies exact sections needed (no vague instructions)
+- 🎯 Sets tone and target audience for better output
+- 📏 Word limits prevent overly long or short responses
 
 ---
 
-## Prompt 2 — Services Page Copy
-**Tool:** Claude AI
-**Goal:** Generate 5 service descriptions with benefits,
+## 💆‍♀️ Prompt 2 — Services Page Copy
+**🤖 Tool:** Claude AI
+**🎯 Goal:** Generate 5 service descriptions with benefits,
 pricing, and CTAs for the salon services page
 
-**Prompt:**
+**📝 Prompt:**
 You are a professional website copywriter.
 
 Write a Services page for "Glowup Studio", a premium salon 
@@ -58,20 +62,20 @@ Target audience: Women aged 18–45
 Tone: Warm, persuasive, and professional
 Keep it simple and website-ready.
 
-**Why This Prompt Works:**
-- Lists exact services so AI doesn't guess or miss any
-- Asks for benefits-focused writing not just feature listing
-- Includes price range for realistic website-ready output
-- CTA line per service increases conversion focus
+**✅ Why This Prompt Works:**
+- 📋 Lists exact services so AI doesn't guess or miss any
+- 💡 Asks for benefits-focused writing not just feature listing
+- 💰 Includes price range for realistic website-ready output
+- 🎯 CTA line per service increases conversion focus
 
 ---
 
-## Prompt 3 — CTA Section Copy
-**Tool:** Claude AI
-**Goal:** Generate a full CTA section with urgency headline,
+## 📣 Prompt 3 — CTA Section Copy
+**🤖 Tool:** Claude AI
+**🎯 Goal:** Generate a full CTA section with urgency headline,
 supporting line, 3 CTA buttons, trust line and special offer
 
-**Prompt:**
+**📝 Prompt:**
 You are a conversion copywriter.
 
 Write a Call-To-Action (CTA) section for "Glowup Studio", 
@@ -92,8 +96,8 @@ Include:
 Tone: Energetic, warm, and action-driving
 Make it website-ready and conversion-focused.
 
-**Why This Prompt Works:**
-- Urgency headline pushes visitor to take action immediately
-- Three different CTAs cover all visitor intentions
-- Trust line builds credibility for new visitors
-- Special offer creates FOMO and increases conversions
+**✅ Why This Prompt Works:**
+- ⚡ Urgency headline pushes visitor to take action immediately
+- 🎯 Three different CTAs cover all visitor intentions
+- ⭐ Trust line builds credibility for new visitors
+- 🎉 Special offer creates FOMO and increases conversions
